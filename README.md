@@ -1,1 +1,1 @@
-"# RitAidVaccineBot" 
+See vaccine_availability.py
